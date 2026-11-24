@@ -1,3 +1,3 @@
 #AI/MLTraining week1
 
-Python Data Visualization Project
+Python Employee salary and data Visualization Project
