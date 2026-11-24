@@ -1,3 +1,3 @@
 #AI/MLTraining week1
 
-Python Matplotlib Charts Project
+Python Data Visualization Project
