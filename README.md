@@ -1,3 +1,3 @@
 #AI/MLTraining week1
 
-Python Employee Salary Charts
+Python Employee salary and data Visualization Project
